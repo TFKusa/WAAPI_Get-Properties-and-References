@@ -1,0 +1,1 @@
+Prints all references and properties for the selected object or by GUID
